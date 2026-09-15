@@ -14,9 +14,9 @@
 
 ### About me
 
-I'm a final-year Computer Engineering student at ESTGV with a foundation in programming, databases, operating systems, computer networks, and software engineering. I enjoy solving problems, understanding how systems work, and building useful software.
+I'm a final-year Computer Engineering student at ESTGV with a foundation in programming, algorithms and data structures, databases, operating systems, computer networks, and software engineering. I enjoy solving problems, understanding how systems work, and building useful software.
 
-My interests span software development, web applications, systems, and AI, including experimenting with local models through Ollama. I'm open to exploring new areas, learning unfamiliar technologies, and contributing to a team while growing as a software engineer.
+My interests span software development, web and mobile applications, systems, and AI, including experimenting with local models through Ollama. I'm open to exploring new areas, learning unfamiliar technologies, and contributing to a team while growing as a software engineer.
 
 ### Selected projects
 
@@ -28,13 +28,13 @@ Music streaming application with personal playlists, audio uploads, and synchron
 Local document organizer with optional AI suggestions, editable previews, operation history, and undo.  
 `Python` `FastAPI` `React` `Ollama`
 
+**[Fitness Tracker](https://github.com/nerifilipe/fitness-tracker-app)**  
+Mobile app for workout planning, nutrition tracking, and progress analytics, with offline workout logging and synchronization.  
+`React Native` `Expo` `TypeScript` `FastAPI` `PostgreSQL`
+
 **[Industrial Monitoring Platform](https://github.com/nerifilipe/industrial-monitoring-platform)**  
 Dashboard for managing machines, visualizing simulated sensor data, and monitoring threshold alerts.  
 `Java` `Spring Boot` `React` `PostgreSQL`
-
-**[AI-Powered Customer Support System](https://github.com/Gabriel0342/AI-Powered-Customer-Support-System)**  
-Collaborative project exploring AI-assisted customer support, with customer and support-team interfaces.  
-`Python` `Ollama`
 
 ### Technologies I've worked with
 
@@ -42,6 +42,7 @@ Collaborative project exploring AI-assisted customer support, with customer and 
 | :--- | :--- |
 | Programming | C, C++, Java, Python, JavaScript, TypeScript, SQL |
 | Frontend | HTML, CSS, React |
+| Mobile | React Native, Expo |
 | Backend | Spring Boot, FastAPI, REST APIs |
 | Databases | PostgreSQL, SQLite |
 | Tools & testing | Git, Docker, GitHub Actions, Playwright, pytest |
