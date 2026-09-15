@@ -14,13 +14,9 @@
 
 ### About me
 
-I'm a final-year Computer Engineering student at ESTGV who enjoys solving problems, understanding how technology works, and building useful software.
+I'm a final-year Computer Engineering student at ESTGV with a foundation in programming, databases, operating systems, computer networks, and software engineering. I enjoy solving problems, understanding how systems work, and building useful software.
 
-Through coursework and projects, I've developed a foundation in programming, algorithms and data structures, databases, operating systems, computer networks, and software engineering. I've worked with languages ranging from C and C++ to Java, Python, and JavaScript, applying them across different projects.
-
-My interests include software development, web applications, systems, and AI. I also enjoy experimenting with local language models through Ollama and exploring practical ways to integrate them into applications.
-
-I'm curious about different areas of computing and open to learning new languages, tools, and approaches. I'm looking for opportunities to contribute to a team, learn from others, and grow as a software engineer.
+My interests span software development, web applications, systems, and AI, including experimenting with local models through Ollama. I'm open to exploring new areas, learning unfamiliar technologies, and contributing to a team while growing as a software engineer.
 
 ### Selected projects
 
